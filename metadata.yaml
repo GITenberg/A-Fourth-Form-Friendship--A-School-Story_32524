@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2544
     wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32524#A-Fourth-Form-Friendship--A-School-Story
 gutenberg_issued: '2010-05-25'
 gutenberg_type: Text
 identifiers:
